@@ -126,6 +126,11 @@ section {
     background: var(--color-primary-2);
 }
 
+.contact .row form input{
+    outline: none;
+    border: none;
+}
+
 .contact .row form .inputBox span{
     color: #fff;
     font-size: 2rem;
